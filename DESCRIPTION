@@ -4,14 +4,7 @@ Version: 1.0
 Authors@R: person(given = "Huimin", family = "Zhang", role = c("aut", "cre"), email = "zhanghuiminlucy@gmail.com")
 Description: Some pathway of kegg are drawed by hand, want to color it in ggplot2.
 Depends: R (>= 3.1.0)
-Imports: dplyr,
-    rvest,
-    purrr,
-    stringr,
-    xml2,
-    XML,
-    ggplot2,
-    grid
+Imports: dplyr, rvest, purrr, stringr, xml2, XML, ggplot2, grid
 License: GPL-2
 Encoding: UTF-8
 LazyData: true
