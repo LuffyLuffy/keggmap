@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!DOCTYPE pathway SYSTEM "http://www.kegg.jp/kegg/xml/KGML_v0.7.2_.dtd">
+<!-- Creation date: Oct 6, 2011 16:16:14 +0900 (GMT+09:00) -->
+<pathway name="path:ec01058" org="ec" number="01058"
+         title="Acridone alkaloid biosynthesis"
+         image="http://www.kegg.jp/kegg/pathway/ec/ec01058.png"
+         link="http://www.kegg.jp/kegg-bin/show_pathway?ec01058">
+    <entry id="1" name="cpd:C10738" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C10738">
+        <graphics name="C10738" fgcolor="none" bgcolor="none"
+             type="rectangle" x="141" y="521" width="168" height="138"/>
+    </entry>
+    <entry id="6" name="BR:br08003(Acridone alkaloids)" type="brite"
+        link="http://www.kegg.jp/kegg-bin/search_htext?htext=br08003&amp;search_string=%22Acridone%20alkaloids%22&amp;option=-n">
+        <graphics name="BR:br08003(Acridone alkaloids)" fgcolor="none" bgcolor="none"
+             type="rectangle" x="341" y="393" width="100" height="15"/>
+    </entry>
+    <entry id="7" name="cpd:C10722" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C10722">
+        <graphics name="C10722" fgcolor="none" bgcolor="none"
+             type="rectangle" x="540" y="512" width="163" height="115"/>
+    </entry>
+    <entry id="8" name="cpd:C10632" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C10632">
+        <graphics name="C10632" fgcolor="none" bgcolor="none"
+             type="rectangle" x="346" y="517" width="169" height="127"/>
+    </entry>
+    <entry id="9" name="cpd:C12093" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C12093">
+        <graphics name="C12093" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="340" y="236" width="8" height="8"/>
+    </entry>
+    <entry id="10" name="cpd:C12092" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C12092">
+        <graphics name="C12092" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="481" y="236" width="8" height="8"/>
+    </entry>
+    <entry id="11" name="cpd:C03005" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C03005">
+        <graphics name="C03005" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="481" y="142" width="8" height="8"/>
+    </entry>
+    <entry id="12" name="cpd:C00108" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C00108">
+        <graphics name="C00108" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="340" y="142" width="8" height="8"/>
+    </entry>
+    <entry id="13" name="ec:2.3.1.159" type="enzyme" reaction="rn:R07250"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.3.1.159">
+        <graphics name="2.3.1.159" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="406" y="238" width="46" height="17"/>
+    </entry>
+    <entry id="14" name="ec:6.2.1.32" type="enzyme" reaction="rn:R07416"
+        link="http://www.kegg.jp/dbget-bin/www_bget?6.2.1.32">
+        <graphics name="6.2.1.32" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="483" y="184" width="46" height="17"/>
+    </entry>
+    <entry id="15" name="ec:2.1.1.111" type="enzyme" reaction="rn:R00984"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.1.1.111">
+        <graphics name="2.1.1.111" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="405" y="143" width="46" height="17"/>
+    </entry>
+    <entry id="16" name="path:ec00400" type="map"
+        link="http://www.kegg.jp/dbget-bin/www_bget?ec00400">
+        <graphics name="Phenylalanine, tyrosine and tryptophan biosynthesis" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="190" y="141" width="157" height="34"/>
+    </entry>
+    <entry id="17" name="path:ec01058" type="map"
+        link="http://www.kegg.jp/dbget-bin/www_bget?ec01058">
+        <graphics name="TITLE:Acridone alkaloid biosynthesis" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="179" y="58" width="277" height="25"/>
+    </entry>
+    <relation entry1="14" entry2="15" type="ECrel">
+        <subtype name="compound" value="11"/>
+    </relation>
+    <relation entry1="13" entry2="14" type="ECrel">
+        <subtype name="compound" value="10"/>
+    </relation>
+    <relation entry1="15" entry2="16" type="maplink">
+        <subtype name="compound" value="12"/>
+    </relation>
+    <reaction id="13" name="rn:R07250" type="irreversible">
+        <substrate id="10" name="cpd:C12092"/>
+        <product id="9" name="cpd:C12093"/>
+    </reaction>
+    <reaction id="14" name="rn:R07416" type="irreversible">
+        <substrate id="11" name="cpd:C03005"/>
+        <product id="10" name="cpd:C12092"/>
+    </reaction>
+    <reaction id="15" name="rn:R00984" type="irreversible">
+        <substrate id="12" name="cpd:C00108"/>
+        <product id="11" name="cpd:C03005"/>
+    </reaction>
+</pathway>

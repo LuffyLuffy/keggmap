@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<!DOCTYPE pathway SYSTEM "http://www.kegg.jp/kegg/xml/KGML_v0.7.2_.dtd">
+<!-- Creation date: Aug 21, 2018 16:58:09 +0900 (GMT+9) -->
+<pathway name="path:ec00572" org="ec" number="00572"
+         title="Arabinogalactan biosynthesis - Mycobacterium"
+         image="http://www.kegg.jp/kegg/pathway/ec/ec00572.png"
+         link="http://www.kegg.jp/kegg-bin/show_pathway?ec00572">
+    <entry id="1" name="path:ec00572" type="map"
+        link="http://www.kegg.jp/dbget-bin/www_bget?ec00572">
+        <graphics name="TITLE:Arabinogalactan biosynthesis - Mycobacterium" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="241" y="58" width="402" height="25"/>
+    </entry>
+    <entry id="2" name="cpd:C02970" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C02970">
+        <graphics name="C02970" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="63" y="129" width="8" height="8"/>
+    </entry>
+    <entry id="4" name="gl:G13118" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?G13118">
+        <graphics name="G13118" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="172" y="129" width="8" height="8"/>
+    </entry>
+    <entry id="6" name="gl:G10610" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?G10610">
+        <graphics name="G10610" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="82" y="162" width="8" height="8"/>
+    </entry>
+    <entry id="8" name="gl:G13119" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?G13119">
+        <graphics name="G13119" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="272" y="129" width="8" height="8"/>
+    </entry>
+    <entry id="9" name="ec:2.7.8.35" type="enzyme" reaction="rn:R12075"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.7.8.35">
+        <graphics name="2.7.8.35" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="120" y="130" width="46" height="17"/>
+    </entry>
+    <entry id="10" name="ec:2.4.1.289" type="enzyme" reaction="rn:R12077"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.1.289">
+        <graphics name="2.4.1.289" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="224" y="130" width="46" height="17"/>
+    </entry>
+    <entry id="11" name="cpd:C03319" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C03319">
+        <graphics name="C03319" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="183" y="162" width="8" height="8"/>
+    </entry>
+    <entry id="14" name="ec:2.4.1.287" type="enzyme" reaction="rn:R12078"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.1.287">
+        <graphics name="2.4.1.287" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="273" y="163" width="46" height="17"/>
+    </entry>
+    <entry id="15" name="gl:G13120" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?G13120">
+        <graphics name="G13120" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="272" y="193" width="8" height="8"/>
+    </entry>
+    <entry id="17" name="ec:2.4.1.287" type="enzyme" reaction="rn:R12079"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.1.287">
+        <graphics name="2.4.1.287" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="273" y="220" width="46" height="17"/>
+    </entry>
+    <entry id="18" name="gl:G13121" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?G13121">
+        <graphics name="G13121" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="272" y="262" width="8" height="8"/>
+    </entry>
+    <entry id="20" name="gl:G13122" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?G13122">
+        <graphics name="G13122" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="355" y="262" width="8" height="8"/>
+    </entry>
+    <entry id="21" name="ec:2.4.1.288" type="enzyme" reaction="rn:R12080"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.1.288">
+        <graphics name="2.4.1.288" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="310" y="263" width="46" height="17"/>
+    </entry>
+    <entry id="25" name="gl:G13123" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?G13123">
+        <graphics name="G13123" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="485" y="262" width="8" height="8"/>
+    </entry>
+    <entry id="27" name="ec:2.4.2.46" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.2.46">
+        <graphics name="2.4.2.46" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="521" y="263" width="46" height="17"/>
+    </entry>
+    <entry id="30" name="gl:G13125" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?G13125">
+        <graphics name="G13125" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="317" y="143" width="8" height="8"/>
+    </entry>
+    <entry id="32" name="path:ec00520" type="map"
+        link="http://www.kegg.jp/dbget-bin/www_bget?ec00520">
+        <graphics name="Amino sugar and nucleotide sugar metabolism" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="497" y="143" width="150" height="34"/>
+    </entry>
+    <entry id="34" name="cpd:C00569" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C00569">
+        <graphics name="C00569" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="730" y="262" width="8" height="8"/>
+    </entry>
+    <entry id="36" name="cpd:C05896" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C05896">
+        <graphics name="C05896" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="744" y="215" width="8" height="8"/>
+    </entry>
+    <entry id="39" name="path:ec00550" type="map"
+        link="http://www.kegg.jp/dbget-bin/www_bget?ec00550">
+        <graphics name="Peptidoglycan biosynthesis" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="747" y="133" width="92" height="34"/>
+    </entry>
+    <entry id="43" name="ec:2.4.1.289" type="enzyme" reaction="rn:R12077"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.1.289">
+        <graphics name="2.4.1.289" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="808,1151,838,1151"/>
+    </entry>
+    <entry id="44" name="ec:2.4.1.287" type="enzyme" reaction="rn:R12078"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.1.287">
+        <graphics name="2.4.1.287" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="736,1151,766,1151"/>
+    </entry>
+    <entry id="45" name="ec:2.4.1.287" type="enzyme" reaction="rn:R12079"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.1.287">
+        <graphics name="2.4.1.287" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="712,1089,712,1134"/>
+    </entry>
+    <entry id="46" name="ec:2.4.1.288" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.1.288">
+        <graphics name="2.4.1.288" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="712,1006,712,1051"/>
+    </entry>
+    <entry id="47" name="ec:2.4.1.288" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.1.288">
+        <graphics name="2.4.1.288" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="712,923,712,968"/>
+    </entry>
+    <entry id="48" name="ec:2.4.1.288" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.1.288">
+        <graphics name="2.4.1.288" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="711,840,711,890"/>
+    </entry>
+    <entry id="49" name="ec:2.4.1.288" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.1.288">
+        <graphics name="2.4.1.288" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="711,757,711,807"/>
+    </entry>
+    <entry id="50" name="ec:2.4.1.288" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.1.288">
+        <graphics name="2.4.1.288" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="711,675,711,725"/>
+    </entry>
+    <entry id="52" name="ec:2.4.1.288" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.1.288">
+        <graphics name="2.4.1.288" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="711,511,711,561"/>
+    </entry>
+    <entry id="53" name="ec:2.4.1.288" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.1.288">
+        <graphics name="2.4.1.288" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="711,425,711,475"/>
+    </entry>
+    <entry id="54" name="ec:2.4.2.46" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.2.46">
+        <graphics name="2.4.2.46" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="691,906,661,906"/>
+    </entry>
+    <entry id="57" name="ec:2.4.2.47" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.2.47">
+        <graphics name="2.4.2.47" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="437,945,462,920"/>
+    </entry>
+    <entry id="59" name="ec:2.3.1.122" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.3.1.122">
+        <graphics name="2.3.1.122" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="217,997,236,986"/>
+    </entry>
+    <entry id="60" name="ec:2.3.1.122" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.3.1.122">
+        <graphics name="2.3.1.122" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="236,936,217,947"/>
+    </entry>
+    <entry id="62" name="ec:2.4.2.47" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.2.47">
+        <graphics name="2.4.2.47" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="280,972,302,956"/>
+    </entry>
+    <entry id="65" name="ec:2.3.1.122" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.3.1.122">
+        <graphics name="2.3.1.122" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="217,871,236,882"/>
+    </entry>
+    <entry id="68" name="ec:2.3.1.122" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.3.1.122">
+        <graphics name="2.3.1.122" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="131,972,161,972"/>
+    </entry>
+    <entry id="69" name="ec:2.3.1.122" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.3.1.122">
+        <graphics name="2.3.1.122" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="131,923,161,923"/>
+    </entry>
+    <entry id="70" name="ec:2.4.2.47" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.2.47">
+        <graphics name="2.4.2.47" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="281,893,303,877"/>
+    </entry>
+    <entry id="74" name="ec:2.3.1.122" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.3.1.122">
+        <graphics name="2.3.1.122" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="131,895,161,895"/>
+    </entry>
+    <entry id="75" name="ec:2.3.1.122" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.3.1.122">
+        <graphics name="2.3.1.122" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="131,845,161,845"/>
+    </entry>
+    <entry id="76" name="ec:2.4.2.46" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.2.46">
+        <graphics name="2.4.2.46" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="691,742,661,742"/>
+    </entry>
+    <entry id="79" name="ec:2.4.2.47" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.2.47">
+        <graphics name="2.4.2.47" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="436,781,461,756"/>
+    </entry>
+    <entry id="82" name="ec:2.4.2.47" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.2.47">
+        <graphics name="2.4.2.47" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="282,797,304,785"/>
+    </entry>
+    <entry id="87" name="ec:2.4.2.47" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.2.47">
+        <graphics name="2.4.2.47" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="282,719,304,707"/>
+    </entry>
+    <entry id="93" name="path:ec00550" type="map"
+        link="http://www.kegg.jp/dbget-bin/www_bget?ec00550">
+        <graphics name="Peptidoglycan biosynthesis" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="1046" y="1112" width="92" height="34"/>
+    </entry>
+    <entry id="94" name="ec:2.3.1.122" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.3.1.122">
+        <graphics name="2.3.1.122" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="217,821,236,832"/>
+    </entry>
+    <entry id="95" name="ec:2.4.2.46" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.2.46">
+        <graphics name="2.4.2.46" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="691,576,661,576"/>
+    </entry>
+    <entry id="98" name="ec:2.4.2.47" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.2.47">
+        <graphics name="2.4.2.47" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="436,613,461,588"/>
+    </entry>
+    <entry id="100" name="ec:2.3.1.122" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.3.1.122">
+        <graphics name="2.3.1.122" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="217,662,236,651"/>
+    </entry>
+    <entry id="101" name="ec:2.3.1.122" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.3.1.122">
+        <graphics name="2.3.1.122" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="236,601,217,612"/>
+    </entry>
+    <entry id="103" name="ec:2.4.2.47" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.2.47">
+        <graphics name="2.4.2.47" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="280,639,302,623"/>
+    </entry>
+    <entry id="106" name="ec:2.3.1.122" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.3.1.122">
+        <graphics name="2.3.1.122" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="217,544,236,555"/>
+    </entry>
+    <entry id="109" name="ec:2.3.1.122" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.3.1.122">
+        <graphics name="2.3.1.122" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="131,639,161,639"/>
+    </entry>
+    <entry id="110" name="ec:2.3.1.122" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.3.1.122">
+        <graphics name="2.3.1.122" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="131,590,161,590"/>
+    </entry>
+    <entry id="111" name="ec:2.4.2.47" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.2.47">
+        <graphics name="2.4.2.47" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="281,566,303,550"/>
+    </entry>
+    <entry id="115" name="ec:2.3.1.122" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.3.1.122">
+        <graphics name="2.3.1.122" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="131,565,161,565"/>
+    </entry>
+    <entry id="116" name="ec:2.3.1.122" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.3.1.122">
+        <graphics name="2.3.1.122" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="131,518,161,518"/>
+    </entry>
+    <entry id="117" name="ec:2.3.1.122" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.3.1.122">
+        <graphics name="2.3.1.122" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="217,494,236,505"/>
+    </entry>
+    <entry id="118" name="path:ec00523" type="map"
+        link="http://www.kegg.jp/dbget-bin/www_bget?ec00523">
+        <graphics name="Polyketide sugar unit biosynthesis" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="184" y="260" width="117" height="34"/>
+    </entry>
+    <entry id="119" name="cpd:C21904" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C21904">
+        <graphics name="C21904" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="746" y="297" width="8" height="8"/>
+    </entry>
+    <entry id="121" name="gl:G13124" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?G13124">
+        <graphics name="G13124" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="569" y="262" width="8" height="8"/>
+    </entry>
+    <relation entry1="9" entry2="10" type="ECrel">
+        <subtype name="compound" value="4"/>
+    </relation>
+    <relation entry1="118" entry2="10" type="maplink">
+        <subtype name="compound" value="11"/>
+    </relation>
+    <relation entry1="10" entry2="14" type="ECrel">
+        <subtype name="compound" value="8"/>
+    </relation>
+    <relation entry1="32" entry2="14" type="maplink">
+        <subtype name="compound" value="30"/>
+    </relation>
+    <relation entry1="14" entry2="17" type="ECrel">
+        <subtype name="compound" value="15"/>
+    </relation>
+    <relation entry1="17" entry2="21" type="ECrel">
+        <subtype name="compound" value="18"/>
+    </relation>
+    <reaction id="21" name="rn:R12080" type="irreversible">
+        <substrate id="18" name="gl:G13121"/>
+        <product id="20" name="gl:G13122"/>
+    </reaction>
+    <reaction id="17" name="rn:R12079" type="irreversible">
+        <substrate id="15" name="gl:G13120"/>
+        <product id="18" name="gl:G13121"/>
+    </reaction>
+    <reaction id="14" name="rn:R12078" type="irreversible">
+        <substrate id="8" name="gl:G13119"/>
+        <substrate id="30" name="gl:G13125"/>
+        <product id="15" name="gl:G13120"/>
+    </reaction>
+    <reaction id="10" name="rn:R12077" type="irreversible">
+        <substrate id="11" name="cpd:C03319"/>
+        <substrate id="4" name="gl:G13118"/>
+        <product id="8" name="gl:G13119"/>
+    </reaction>
+    <reaction id="9" name="rn:R12075" type="irreversible">
+        <substrate id="2" name="cpd:C02970"/>
+        <substrate id="6" name="gl:G10610"/>
+        <product id="4" name="gl:G13118"/>
+    </reaction>
+</pathway>

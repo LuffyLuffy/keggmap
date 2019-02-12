@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<!DOCTYPE pathway SYSTEM "http://www.kegg.jp/kegg/xml/KGML_v0.7.2_.dtd">
+<!-- Creation date: Dec 13, 2018 09:09:57 +0900 (GMT+9) -->
+<pathway name="path:ec00195" org="ec" number="00195"
+         title="Photosynthesis"
+         image="http://www.kegg.jp/kegg/pathway/ec/ec00195.png"
+         link="http://www.kegg.jp/kegg-bin/show_pathway?ec00195">
+    <entry id="2" name="path:map00196" type="map"
+        link="http://www.kegg.jp/dbget-bin/www_bget?map00196">
+        <graphics name="Photosynthesis - antenna proteins" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="322" y="159" width="105" height="25"/>
+    </entry>
+    <entry id="13" name="cpd:C00005" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C00005">
+        <graphics name="C00005" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="487" y="123" width="8" height="8"/>
+    </entry>
+    <entry id="14" name="cpd:C00006" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C00006">
+        <graphics name="C00006" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="550" y="124" width="8" height="8"/>
+    </entry>
+    <entry id="15" name="ec:1.18.1.2" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?1.18.1.2">
+        <graphics name="1.18.1.2" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="525" y="214" width="46" height="17"/>
+    </entry>
+    <entry id="16" name="cpd:C00080" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C00080">
+        <graphics name="C00080" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="413" y="402" width="8" height="8"/>
+    </entry>
+    <entry id="23" name="ec:7.1.1.6" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?7.1.1.6">
+        <graphics name="7.1.1.6" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="412" y="340" width="46" height="17"/>
+    </entry>
+    <entry id="24" name="cpd:C02185" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C02185">
+        <graphics name="C02185" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="331" y="293" width="8" height="8"/>
+    </entry>
+    <entry id="25" name="cpd:C02061" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C02061">
+        <graphics name="C02061" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="300" y="261" width="8" height="8"/>
+    </entry>
+    <entry id="26" name="cpd:C00034" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C00034">
+        <graphics name="C00034" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="210" y="361" width="8" height="8"/>
+    </entry>
+    <entry id="27" name="cpd:C00001" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C00001">
+        <graphics name="C00001" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="186" y="401" width="8" height="8"/>
+    </entry>
+    <entry id="28" name="cpd:C00007" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C00007">
+        <graphics name="C00007" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="237" y="402" width="8" height="8"/>
+    </entry>
+    <entry id="29" name="path:ec00195" type="map"
+        link="http://www.kegg.jp/dbget-bin/www_bget?ec00195">
+        <graphics name="TITLE:Photosynthesis" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="113" y="58" width="145" height="25"/>
+    </entry>
+    <entry id="30" name="cpd:C00080" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C00080">
+        <graphics name="C00080" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="210" y="402" width="8" height="8"/>
+    </entry>
+    <entry id="31" name="cpd:C00080" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C00080">
+        <graphics name="C00080" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="533" y="124" width="8" height="8"/>
+    </entry>
+    <entry id="32" name="cpd:C00080" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C00080">
+        <graphics name="C00080" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="804" y="401" width="8" height="8"/>
+    </entry>
+    <entry id="33" name="cpd:C00080" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C00080">
+        <graphics name="C00080" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="413" y="197" width="8" height="8"/>
+    </entry>
+    <entry id="34" name="cpd:C00008" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C00008">
+        <graphics name="C00008" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="743" y="66" width="8" height="8"/>
+    </entry>
+    <entry id="35" name="cpd:C00080" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C00080">
+        <graphics name="C00080" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="803" y="62" width="8" height="8"/>
+    </entry>
+    <entry id="36" name="cpd:C00002" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C00002">
+        <graphics name="C00002" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="854" y="62" width="8" height="8"/>
+    </entry>
+    <entry id="37" name="path:ec00710" type="map"
+        link="http://www.kegg.jp/dbget-bin/www_bget?ec00710">
+        <graphics name="Carbon fixation in photosynthetic organisms" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="588" y="53" width="134" height="34"/>
+    </entry>
+    <entry id="41" name="ec:1.10.9.1" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?1.10.9.1">
+        <graphics name="1.10.9.1" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="678" y="510" width="46" height="17"/>
+    </entry>
+    <entry id="48" name="ec:1.18.1.2" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?1.18.1.2">
+        <graphics name="1.18.1.2" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="644" y="577" width="46" height="17"/>
+    </entry>
+    <entry id="83" name="ec:7.1.2.2" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?7.1.2.2">
+        <graphics name="7.1.2.2" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="804" y="106" width="46" height="17"/>
+    </entry>
+    <entry id="85" name="cpd:C00009" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C00009">
+        <graphics name="C00009" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="759" y="66" width="8" height="8"/>
+    </entry>
+</pathway>

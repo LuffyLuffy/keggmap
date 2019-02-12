@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<!DOCTYPE pathway SYSTEM "http://www.kegg.jp/kegg/xml/KGML_v0.7.2_.dtd">
+<!-- Creation date: Nov 29, 2016 15:32:37 +0900 (GMT+9) -->
+<pathway name="path:ec00533" org="ec" number="00533"
+         title="Glycosaminoglycan biosynthesis - keratan sulfate"
+         image="http://www.kegg.jp/kegg/pathway/ec/ec00533.png"
+         link="http://www.kegg.jp/kegg-bin/show_pathway?ec00533">
+    <entry id="1" name="path:ec00512" type="map"
+        link="http://www.kegg.jp/dbget-bin/www_bget?ec00512">
+        <graphics name="Mucin type O-glycan biosynthesis" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="552" y="357" width="127" height="25"/>
+    </entry>
+    <entry id="2" name="path:ec00533" type="map"
+        link="http://www.kegg.jp/dbget-bin/www_bget?ec00533">
+        <graphics name="TITLE:Glycosaminoglycan biosynthesis - keratan sulfate" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="259" y="58" width="437" height="25"/>
+    </entry>
+    <entry id="3" name="ec:2.4.1.149" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.1.149">
+        <graphics name="2.4.1.149" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="398,198,428,198"/>
+    </entry>
+    <entry id="5" name="ec:2.4.1.38" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.1.38">
+        <graphics name="2.4.1.38" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="651,264,681,264"/>
+    </entry>
+    <entry id="6" name="ec:2.4.99.6" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.99.6">
+        <graphics name="2.4.99.6" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="578,265,608,265"/>
+    </entry>
+    <entry id="10" name="ec:2.4.1.38" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.1.38">
+        <graphics name="2.4.1.38" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="648,198,678,198"/>
+    </entry>
+    <entry id="11" name="ec:2.4.1.149" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.1.149">
+        <graphics name="2.4.1.149" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="574,198,604,198"/>
+    </entry>
+    <entry id="12" name="ec:2.4.1.38" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.1.38">
+        <graphics name="2.4.1.38" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="476,198,506,198"/>
+    </entry>
+    <entry id="16" name="ec:2.4.1.68" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.1.68">
+        <graphics name="2.4.1.68" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="1029,179,1029,209"/>
+    </entry>
+    <entry id="20" name="ec:2.8.2.21" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.8.2.21">
+        <graphics name="2.8.2.21" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="251,148,251,178"/>
+    </entry>
+    <entry id="22" name="ec:2.8.2.21" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.8.2.21">
+        <graphics name="2.8.2.21" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="61,148,61,178"/>
+    </entry>
+    <entry id="23" name="path:ec00510" type="map"
+        link="http://www.kegg.jp/dbget-bin/www_bget?ec00510">
+        <graphics name="N-Glycan biosynthesis" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="554" y="95" width="127" height="25"/>
+    </entry>
+    <entry id="24" name="ec:2.4.1.149" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.1.149">
+        <graphics name="2.4.1.149" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="473,443,503,443"/>
+    </entry>
+    <entry id="25" name="ec:2.4.99.4" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.99.4">
+        <graphics name="2.4.99.4" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="745,508,775,508"/>
+    </entry>
+    <entry id="28" name="ec:2.4.1.38" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.1.38">
+        <graphics name="2.4.1.38" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="723,443,753,443"/>
+    </entry>
+    <entry id="29" name="ec:2.4.1.149" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.1.149">
+        <graphics name="2.4.1.149" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="649,443,679,443"/>
+    </entry>
+    <entry id="30" name="ec:2.4.1.38" type="enzyme"
+        link="http://www.kegg.jp/dbget-bin/www_bget?2.4.1.38">
+        <graphics name="2.4.1.38" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="551,443,581,443"/>
+    </entry>
+</pathway>
